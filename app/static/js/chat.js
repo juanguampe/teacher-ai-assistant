@@ -111,4 +111,48 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Focus input field on page load
     userInput.focus();
+    
+    // Document upload functionality
+    const uploadForm = document.getElementById('upload-form');
+    const documentFile = document.getElementById('document-file');
+    const uploadStatus = document.getElementById('upload-status');
+
+    uploadForm.addEventListener('submit', async function(e) {
+        e.preventDefault();
+        
+        if (!documentFile.files[0]) {
+            uploadStatus.innerHTML = '<div class="alert alert-warning">Please select a file to upload</div>';
+            return;
+        }
+        
+        const file = documentFile.files[0];
+        if (!file.name.endsWith('.json')) {
+            uploadStatus.innerHTML = '<div class="alert alert-warning">Please upload a JSON file</div>';
+            return;
+        }
+        
+        uploadStatus.innerHTML = '<div class="alert alert-info">Uploading document...</div>';
+        
+        const formData = new FormData();
+        formData.append('file', file);
+        
+        try {
+            const response = await fetch('/api/upload-document', {
+                method: 'POST',
+                body: formData
+            });
+            
+            const result = await response.json();
+            
+            if (result.success) {
+                uploadStatus.innerHTML = `<div class="alert alert-success">${result.message}</div>`;
+                documentFile.value = '';
+            } else {
+                uploadStatus.innerHTML = `<div class="alert alert-danger">${result.message}</div>`;
+            }
+        } catch (error) {
+            console.error('Error uploading document:', error);
+            uploadStatus.innerHTML = '<div class="alert alert-danger">Error uploading document. Please try again.</div>';
+        }
+    });
 });
