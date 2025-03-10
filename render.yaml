@@ -1,43 +1,26 @@
-{
-  "services": [
-    {
-      "type": "web",
-      "name": "teacher-ai-assistant",
-      "env": "python",
-      "buildCommand": "./build.sh",
-      "startCommand": "uvicorn main:app --host 0.0.0.0 --port $PORT",
-      "envVars": [
-        {
-          "key": "OPENAI_API_KEY",
-          "sync": "false"
-        },
-        {
-          "key": "DATABASE_URL",
-          "fromDatabase": {
-            "name": "teacher-ai-db",
-            "property": "connectionString"
-          }
-        },
-        {
-          "key": "CHROMA_DB_DIR",
-          "value": "/data/chroma_db"
-        },
-        {
-          "key": "PORT",
-          "value": "10000"
-        }
-      ],
-      "disk": {
-        "name": "data",
-        "mountPath": "/data",
-        "sizeGB": 1
-      }
-    }
-  ],
-  "databases": [
-    {
-      "name": "teacher-ai-db",
-      "type": "postgresql"
-    }
-  ]
-}
+services:
+  - type: web
+    name: teacher-ai-assistant
+    env: python
+    buildCommand: ./build.sh
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false # This is already a boolean, not a string
+      - key: DATABASE_URL
+        fromDatabase:
+          name: teacher-ai-db
+          property: connectionString
+      - key: CHROMA_DB_DIR
+        value: /data/chroma_db
+      - key: PORT
+        value: "10000"
+    disk:
+      name: data
+      mountPath: /data
+      sizeGB: 1
+
+databases:
+  - name: teacher-ai-db
+    databaseName: teacher_ai_db
+    plan: free
