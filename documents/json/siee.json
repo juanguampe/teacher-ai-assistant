@@ -1,0 +1,1086 @@
+[
+    {
+        "line_number": 0,
+        "content": "SISTEMA INTEGRAL DE EVALUACION:"
+    },
+    {
+        "line_number": 1,
+        "content": "La propuesta educativa del Colegio San Bartolomé La Merced se basa en la Pedagogía Ignaciana, la cual busca el desarrollo integral de cada estudiante más allá de la mera adquisición de conocimientos. En este contexto, la evaluación ocupa un lugar fundamental, siendo concebida como un proceso continuo y formativo que tiene como objetivo principal la formación integral del estudiante."
+    },
+    {
+        "line_number": 2,
+        "content": "Se reconoce la importancia de proporcionar retroalimentación constante y oportuna para mejorar el aprendizaje y promover el autoconocimiento. Además, se valora la individualidad de cada estudiante, identificando sus características personales, intereses, ritmos de desarrollo y estilos de aprendizaje. Se implementan también estrategias pedagógicas para apoyar a aquellos que presentan dificultades y a los que alcanzan desempeños superiores."
+    },
+    {
+        "line_number": 3,
+        "content": "La evaluación también se contextualiza, teniendo en cuenta las experiencias y situaciones de vida de los estudiantes, y se fomenta la aplicación de los conocimientos adquiridos en contextos reales. Se promueve la reflexión crítica como elemento central, incentivando a los estudiantes a cuestionar, analizar y evaluar de manera rigurosa, fomentando así un pensamiento reflexivo y autónomo."
+    },
+    {
+        "line_number": 4,
+        "content": "En la Pedagogía Ignaciana, la evaluación abarca diferentes dimensiones del desarrollo humano. Además de evaluar el rendimiento académico, se considera el desarrollo de habilidades socioemocionales, valores éticos y el compromiso con los demás y el mundo. Se destaca la importancia de la acción y el servicio como parte integral del proceso educativo, brindando oportunidades para que los estudiantes apliquen los conocimientos adquiridos en acciones concretas en beneficio de los demás."
+    },
+    {
+        "line_number": 5,
+        "content": "En resumen, la evaluación en el Colegio San Bartolomé La Merced está alineada conceptual, pedagógica y didácticamente con el Proyecto Educativo Institucional (PEI), por lo tanto, no es una tarea aislada, sino que muestra coherencia con la misión, los propósitos y el enfoque pedagógico. Hace parte del plan de estudios y responde a los lineamientos del Ministerio de Educación Nacional (MEN) y a la Asociación de Colegios Jesuitas en Colombia (ACODESI)."
+    },
+    {
+        "line_number": 6,
+        "content": "1. DEFINICION DE EVALUACION:"
+    },
+    {
+        "line_number": 7,
+        "content": "La evaluación en la propuesta educativa de San Bartolomé La Merced es una revisión de la totalidad del proceso pedagógico seguido a lo largo de un periodo académico específico, en donde se han vivido los momentos de aprendizaje del Paradigma Pedagógico Ignaciano: Situar la realidad en su contexto, experimentar vivencialmente, reflexionar sobre esa experiencia, actuar consecuentemente y evaluar la acción y el proceso seguido; este último tiene la tarea de verificar y ponderar en qué medida se han realizado fiel y eficazmente las acciones pedagógicas y el resultado de las mismas en el desempeño de los estudiantes, y, por otra parte, en qué grado se han obtenido los objetivos perseguidos, en términos de cambio, transformación y proyección personal. Este sistema, entendido también como evaluación formativa no se limita solo a la valoración; está basado en el análisis de los procesos que los estudiantes deben desarrollar a través de los contenidos propios de cada una de las habilidades académicas, lo que implica que el profesor tenga un conocimiento claro de ellas y del proceso del estudiante para acompañar y valorar el desarrollo de estas habilidades."
+    },
+    {
+        "line_number": 8,
+        "content": "Esta comprensión sobre la evaluación implica entre otras, tener presente el contexto y los factores que inciden en el desempeño pedagógico de los estudiantes, identificar sus aciertos y dificultades, tener en cuenta los procesos sin prescindir de los resultados, y llevar al estudiante a un ejercicio de autoevaluación, heteroevaluación y coevaluación que le permita el conocimiento de sí mismo para juzgarse, valorarse, tomar decisiones sobre sus actitudes, intereses, objetivos de aprendizaje y compromisos."
+    },
+    {
+        "line_number": 9,
+        "content": "1.1 PROPOSITOS DE LA EVALUACION:"
+    },
+    {
+        "line_number": 10,
+        "content": "Con este Sistema de Evaluación se busca acompañar el proceso de aprendizaje centrando la atención en lo que realmente aprende el estudiante y no solo en el aprobar o no aprobar. Implica, acompañamiento de familias y maestros. Exige ver las diferencias, en cuanto a las fortalezas y las dificultades de cada estudiante. Por lo tanto, se pretende:"
+    },
+    {
+        "line_number": 11,
+        "content": "1. Estimular el fortalecimiento de los valores, principios y actitudes ignacianos."
+    },
+    {
+        "line_number": 12,
+        "content": "2. Animar a cada estudiante a reconocer, vivir y desarrollar sus habilidades y destrezas."
+    },
+    {
+        "line_number": 13,
+        "content": "3. Identificar características personales, intereses, ritmos de desarrollo y estilos de aprendizaje."
+    },
+    {
+        "line_number": 14,
+        "content": "4. Hacer prácticas permanentes de autoevaluación, coevaluación y heteroevaluación, que contribuyan al desarrollo del aprendizaje y a la formación integral de los estudiantes."
+    },
+    {
+        "line_number": 15,
+        "content": "5. Ofrecer a los estudiantes oportunidades para aprender del éxito, el error y la experiencia en general."
+    },
+    {
+        "line_number": 16,
+        "content": "6. Proporcionar a la familia herramientas y estrategias de acompañamiento que les permitan evaluar el proceso de formación de su hijo."
+    },
+    {
+        "line_number": 17,
+        "content": "7. Verificar el alcance del aprendizaje de los estudiantes en cada una de las habilidades que componen el Plan de Estudios."
+    },
+    {
+        "line_number": 18,
+        "content": "8. Diseñar e implementar estrategias de acompañamiento para apoyar a los estudiantes que tienen dificultades en su aprendizaje."
+    },
+    {
+        "line_number": 19,
+        "content": "9. Diseñar e implementar estrategias para apoyar a los estudiantes que tengan dificultades en su proceso académico."
+    },
+    {
+        "line_number": 20,
+        "content": "10. Ofrecer al docente información para reorientar o consolidar sus prácticas pedagógicas. Y diseñar e implementar estrategias para apoyar a los estudiantes que tengan dificultades o desempeños superiores en su proceso académico."
+    },
+    {
+        "line_number": 21,
+        "content": "11. Aportar información que contribuya a la autoevaluación de la institución y así contribuya al ajuste e implementación del Plan de mejoramiento institucional."
+    },
+    {
+        "line_number": 22,
+        "content": "12. Determinar la aprobación del estudiante en cada grado."
+    },
+    {
+        "line_number": 23,
+        "content": "CRITERIOS Y OTRAS DISPOSICIONES DE EVALUACION:"
+    },
+    {
+        "line_number": 24,
+        "content": "1. El año académico estará dividido en tres periodos."
+    },
+    {
+        "line_number": 25,
+        "content": "2. El Plan de Estudios es evaluado a través de diferentes estrategias de evaluación, que permiten observar cómo se están alcanzando los objetivos y aprendizajes esperados."
+    },
+    {
+        "line_number": 26,
+        "content": "3. En Preescolar la valoración del alcance de los aprendizajes esperados se hará a través de una escala cualitativa para cada periodo académico."
+    },
+    {
+        "line_number": 27,
+        "content": "4. De 1° a 11°, la valoración del alcance de los objetivos de aprendizaje, se expresará a través de un porcentaje y su equivalente cualitativo según la escala nacional."
+    },
+    {
+        "line_number": 28,
+        "content": "5. El cronograma de pruebas desde grado 1° a 11° será publicado en el planeador institucional y socializado por los canales oficiales en cada periodo."
+    },
+    {
+        "line_number": 29,
+        "content": "6. Desde el inicio del periodo académico los estudiantes deben conocer los aprendizajes esperados (preescolar) y  los objetivos de aprendizaje con sus criterios de evaluación desde grado primero hasta undécimo grado."
+    },
+    {
+        "line_number": 30,
+        "content": "7. Cada docente diseña estrategias de aprendizaje y de evaluación variadas teniendo en cuenta la didáctica particular de cada habilidad o ámbito y los estilos de aprendizaje de los estudiantes."
+    },
+    {
+        "line_number": 31,
+        "content": "8. Al cierre del año escolar, aquellos estudiantes que obtengan el nivel BAJO en la valoración global en dos habilidades deberán realizar un Plan de Desarrollo  Individual para nivelar los criterios no alcanzados durante el año escolar y  presentar unas pruebas académicas para verificar el alcance de los mismos, antes del inicio del año escolar siguiente."
+    },
+    {
+        "line_number": 32,
+        "content": "9. Las coordinaciones de ciclo programarán, cuando sea necesario, algunos espacios, para trabajar con los estudiantes que requieren fortalecer algunos criterios de evaluación, estos serán informados a las familias por los maestros de cada ciclo."
+    },
+    {
+        "line_number": 33,
+        "content": "10. Desde un enfoque diferencial, para los estudiantes que presentan barreras para el aprendizaje por alguna condición diagnóstica, se debe garantizar una adecuada y equitativa evaluación de los aprendizajes o criterios de evaluación."
+    },
+    {
+        "line_number": 34,
+        "content": "1.2 EVALUACION EN PREESCOLAR:"
+    },
+    {
+        "line_number": 35,
+        "content": "Según el Decreto 2247 del Ministerio de Educación Nacional en el artículo 10 afirma que “en el nivel de educación preescolar no se reprueban grados ni actividades. Los educandos avanzaran en el proceso educativo, según sus capacidades y aptitudes personales. Para tal efecto, las instituciones educativas diseñarán mecanismos de evaluación cualitativa cuyo resultado, se expresará en informes descriptivos que les permitan a los docentes y a los padres de familia, apreciar el avance en la formación integral del educando, las circunstancias que no favorecen el desarrollo de procesos y las acciones necesarias para superarlas”."
+    },
+    {
+        "line_number": 36,
+        "content": "Plan de Estudios de Preescolar Por Ámbitos (PEPPA): Es uno de los componentes del currículo en la propuesta educativa de la Compañía de Jesús, que pretende sentar las bases de la estructura y los principios pedagógicos que orientan la formación de los niños del nivel Preescolar en los colegios. Este, es un plan de estudios diseñado desde la perspectiva de la integración de aprendizajes y la concepción del niño como centro del proceso; acogiendo las bases de la propuesta Educativa Ignaciana en su sentido más amplio de procurar una formación integral que trasciende el referente de las asignaturas. El PEPPA, se encuentra estructurado en cuatro ámbitos de formación, los cuales son categorías que identifican en qué aspectos del desarrollo se deben concentrar los procesos claves de la tarea formativa de la educación Preescolar y constituyen los cimientos que permiten organizar, regular y articular los espacios curriculares:"
+    },
+    {
+        "line_number": 37,
+        "content": "Ámbito Relación del niño consigo mismo, con los otros y con Dios-Jesús."
+    },
+    {
+        "line_number": 38,
+        "content": "Ámbito Lenguaje, comunicación y expresión."
+    },
+    {
+        "line_number": 39,
+        "content": "Ámbito Exploración, conocimiento y comprensión del mundo."
+    },
+    {
+        "line_number": 40,
+        "content": "Ámbito Desarrollo corporal y promoción de la salud."
+    },
+    {
+        "line_number": 41,
+        "content": "CRITERIOS DE EVALUACIÓN:"
+    },
+    {
+        "line_number": 42,
+        "content": "Para cada ámbito se han definido unos núcleos de aprendizaje y en cada núcleo un conjunto de aprendizajes esperados para el año y para cada periodo académico, los cuales se alcanzan a través de unos componentes. Así mismo se precisan los criterios e instrumentos de evaluación. Para cada uno de los ámbitos se han definido a su vez unos núcleos de aprendizaje entendidos como los focos de experiencias y aprendizajes constitutivos de cada ámbito, que orientan y explicitan las intenciones pedagógicas dentro del contexto escolar. Cada núcleo de aprendizaje ofrece los aprendizajes esperados (metas anuales para cada grado) que se entienden como el avance deseado en los niños de preescolar como fruto del proceso de enseñanza aprendizaje. En Preescolar, se asumen acciones de mejora para los estudiantes, en espacios como apoyos pedagógicos antes del inicio de la jornada escolar, con análisis previo del equipo de grado. Para cada uno de los aprendizajes, se han construido NIVELES DE PROGRESO en coherencia con el aprendizaje de cada núcleo, con el fin de observar el progreso de las habilidades (estos se dan progresivamente), y criterios de evaluación para determinar el alcance o no del nivel de progreso de los  estudiantes. Todos estos se definen periodo por periodo, por cada núcleo de los alcances. Cada profesor lleva un registro del proceso de evaluación en el formulario de acompañamiento y seguimiento, que incluye La Pausa Periódica Magis XXI realizada por los padres y el propio alumno. Esto favorece el diálogo entre el acompañante, la familia y el alumno para dirigir el proceso. Al final de cada periodo, se entrega un informe de evaluación integral de carácter descriptivo-explicativo. Esto responde a la estructura del Plan de Estudios, que se organiza en ámbitos, núcleos y aprendizajes esperados, lo que permite evidenciar el proceso de cada estudiante periodo por periodo. El informe destaca aspectos positivos, indica avances y hace sugerencias de apoyo para superar las necesidades presentadas y fortalecer su proceso de integración."
+    },
+    {
+        "line_number": 43,
+        "content": "CONTEXTO:"
+    },
+    {
+        "line_number": 44,
+        "content": "En la institución, formación se entiende como el conjunto de actividades, acciones y procesos de orden pedagógico y educativo que buscan el desarrollo integral de los estudiantes y que se definen en el PEI. Este trabajo está orientado al desarrollo armónico de todos los aspectos constitutivos de los estudiantes como personas."
+    },
+    {
+        "line_number": 45,
+        "content": "Para lograr la formación académica de los estudiantes, el trabajo realizado por los docentes busca generar en ellos avances en los procesos de desarrollo humano potenciando las dimensiones de la formación integral (ética, sociopolítica, cognitiva, comunicativa, socioafectiva, espiritual, corporal y artística) a través del conocimiento específico de cada una de las áreas de conocimiento y habilidades que conforman el plan de estudios."
+    },
+    {
+        "line_number": 46,
+        "content": ""
+    },
+    {
+        "line_number": 47,
+        "content": "Las áreas académicas que conforman el Plan de Estudios son: Educación Religiosa, Ciencias Sociales, Historia, Matemáticas, Geometría, Estadística, Ética y Valores, Filosofía, Ciencias Naturales, Física-Química, Lengua Extranjera: inglés, Lengua Castellana, Tecnología e Informática, Educación Física, Educación Artística: Danza, Expresión Corporal, Música, Plástica. Todas ellas tienen fundamentos teóricos y pedagógicos que se encuentran en el PAIM (Proceso de Aprendizaje Integral, Magis 21)."
+    },
+    {
+        "line_number": 48,
+        "content": ""
+    },
+    {
+        "line_number": 49,
+        "content": "En los cinco ciclos, la implementación de las áreas formales de conocimiento ocurre a través del desarrollo de un currículo integral organizado en habilidades."
+    },
+    {
+        "line_number": 50,
+        "content": ""
+    },
+    {
+        "line_number": 51,
+        "content": "Para el ciclo I: Pre-jardín, Jardín y Transición, el plan de estudios PEPPA para preescolar está organizado por ámbitos formativos de lenguaje, relacional, corporal y exploración; de acuerdo con los lineamientos de la Ley General de Educación, sus decretos y resoluciones reglamentarias, normas curriculares y lineamientos de ACODESI."
+    },
+    {
+        "line_number": 52,
+        "content": ""
+    },
+    {
+        "line_number": 53,
+        "content": "Desde el ciclo I hasta el ciclo V, el plan de estudios está organizado por tres ámbitos con sus respectivas habilidades. Ámbito de las letras, compuesto por las habilidades de Comunicar L1, Comunicar L2, Razonar e Indagar; Ámbito de Virtudes, compuesto por las habilidades de Discernir Trascender; y el Ámbito del Cuerpo, compuesto por las habilidades de Sentir y Crear. Cada uno de los ciclos desarrolla sus acciones en coherencia con la etapa madurativa de los estudiantes, la forma en que aprenden y construyen conocimiento, y una meta de formación a alcanzar."
+    },
+    {
+        "line_number": 54,
+        "content": ""
+    },
+    {
+        "line_number": 55,
+        "content": "Plan de Estudios de la Educación Básica Primaria CICLO 2 Y 3:"
+    },
+    {
+        "line_number": 56,
+        "content": "HABILIDADES: ASIGNATURAS"
+    },
+    {
+        "line_number": 57,
+        "content": "Comunicar L1: Español - Literatura"
+    },
+    {
+        "line_number": 58,
+        "content": "Comunicar L2: Inglés - Literatura"
+    },
+    {
+        "line_number": 59,
+        "content": "Razonar: Matemáticas"
+    },
+    {
+        "line_number": 60,
+        "content": "Discernir y Trascender: Religión - Filosofía"
+    },
+    {
+        "line_number": 61,
+        "content": "Pensamiento computacional: Tecnología e Informática"
+    },
+    {
+        "line_number": 62,
+        "content": "Indagar: Ciencias Sociales - Ciencias Naturales"
+    },
+    {
+        "line_number": 63,
+        "content": "Crear: Expresión Corporal - Música - Artes Plásticas"
+    },
+    {
+        "line_number": 64,
+        "content": "Sentir: Educación Física"
+    },
+    {
+        "line_number": 65,
+        "content": "Lúdicas: Lúdica"
+    },
+    {
+        "line_number": 66,
+        "content": "Énfasis del Colegio: Retos - STEAM"
+    },
+    {
+        "line_number": 67,
+        "content": ""
+    },
+    {
+        "line_number": 68,
+        "content": "Para la aprobación de un grado no se tendrá en cuenta el área denominada Énfasis del Colegio, ni Lúdica."
+    },
+    {
+        "line_number": 69,
+        "content": ""
+    },
+    {
+        "line_number": 70,
+        "content": "Plan de Estudios de la Educación Básica Secundaria CICLO 4 Y 5:"
+    },
+    {
+        "line_number": 71,
+        "content": "HABILIDADES: ASIGNATURAS"
+    },
+    {
+        "line_number": 72,
+        "content": "Comunicar L1: Español"
+    },
+    {
+        "line_number": 73,
+        "content": "Comunicar L2: Inglés"
+    },
+    {
+        "line_number": 74,
+        "content": "Razonar: Matemáticas - Global Economics"
+    },
+    {
+        "line_number": 75,
+        "content": "Comunidad Magis: Religión - Ética"
+    },
+    {
+        "line_number": 76,
+        "content": "Pensamiento computacional: Tecnología e Informática"
+    },
+    {
+        "line_number": 77,
+        "content": "Contexto Natural: Biología - Química - Física"
+    },
+    {
+        "line_number": 78,
+        "content": "Contexto social Territorio, política y tiempo: Historia - Constitución política y democracia"
+    },
+    {
+        "line_number": 79,
+        "content": "Crear: Teatro - Música - Artes Plásticas - Danza"
+    },
+    {
+        "line_number": 80,
+        "content": "Sentir: Educación Física"
+    },
+    {
+        "line_number": 81,
+        "content": "Lúdicas: Lúdica"
+    },
+    {
+        "line_number": 82,
+        "content": "Seminario Filosófico - Literario : Filosofía Literatura"
+    },
+    {
+        "line_number": 83,
+        "content": "Énfasis del Colegio: Liderazgo: Ingenio, trayectoria y servicio"
+    },
+    {
+        "line_number": 84,
+        "content": ""
+    },
+    {
+        "line_number": 85,
+        "content": "Para la aprobación de un grado no se tendrá en cuenta el área denominada Lúdica."
+    },
+    {
+        "line_number": 86,
+        "content": ""
+    },
+    {
+        "line_number": 87,
+        "content": "1.3 EVALUACION EN LOS NIVELES DE EDUCACION BASICA Y SECUNDARIA:"
+    },
+    {
+        "line_number": 88,
+        "content": "Semana de Acompañamiento yApoyo Pedagógico:"
+    },
+    {
+        "line_number": 89,
+        "content": "Buscando dar profundidad y compromiso enel proceso formativo de los estudiantes se plantea un Enfoque Mixto, dando fuerza a la realimentación de los procesos con los estudiantes y familias con respecto a las habilidades, recursos y necesidades identificadas en el acompañamiento."
+    },
+    {
+        "line_number": 90,
+        "content": ""
+    },
+    {
+        "line_number": 91,
+        "content": "CRITERIOS DE EVALUACION:"
+    },
+    {
+        "line_number": 92,
+        "content": "Da cuenta de un principio de escalonamiento, estructurado en 42 periodos académicos con sus respectivos objetivos de aprendizaje (prejardín – undécimo) y criterios de evaluación previamente definidos en cada una de las habilidades académicas."
+    },
+    {
+        "line_number": 93,
+        "content": "Se establece como alcance del mínimo aprobatorio el 70% de la totalidad de los 10 CRITERIOS establecidos por periodo en cada habilidad."
+    },
+    {
+        "line_number": 94,
+        "content": "Durante el periodo los estudiantes deben cumplir con las acciones pedagógicas propuestas, con el objetivo de evidenciar el cumplimiento o no de los criterios de evaluación establecidos, siendo estos pre-requisitos para la presentación de una prueba obligatoria (corte evaluativo) previa a las dos pausas pedagógicas definidas para el periodo. Dicho cronograma será socializado por los medios oficiales, previamente a estudiantes, familias y maestros."
+    },
+    {
+        "line_number": 95,
+        "content": ""
+    },
+    {
+        "line_number": 96,
+        "content": "1.4 ELEMENTOS DE LA PROPUESTA:"
+    },
+    {
+        "line_number": 97,
+        "content": "1. Objetivos de aprendizaje: Son una intención o propósito del proceso enseñanza-aprendizaje que representan la meta que se alcanza a través de una acción formativa y supone a su vez la base para establecer los criterios en la selección y secuenciación de los contenidos y la evaluación del proceso para alcanzar el Magis."
+    },
+    {
+        "line_number": 98,
+        "content": "2. Criterios de evaluación: Son indicadores definidos desde el inicio del año escolar que permiten determinar el alcance o no del aprendizaje esperado de un estudiante."
+    },
+    {
+        "line_number": 99,
+        "content": "3. Evidencias de evaluación: Durante el periodo los estudiantes deben presentar las evidencias de evaluación propuestas en cada una de las habilidades académicas. En la entrega oportuna de estas evidencias deben considerarse los criterios de calidad y tiempo establecidos por los docentes para verificar el alcance o no de los criterios de evaluación. Dicha entrega es pre- requisito para la presentación de las pruebas académicas al cierre de cada periodo, la cual se constituye como una evidencia de evaluación del proceso de aprendizaje.   Estas no garantizan el alcance del criterio , solo evidencia el avance de cada uno de los estudiantes."
+    },
+    {
+        "line_number": 100,
+        "content": "4. Prueba: Son acciones pedagógicas que se llevan a cabo con los estudiantes para evidenciar la consolidación de sus conocimientos a través de ejercicios de síntesis, integración y aplicación de los aprendizajes. Según la didáctica propia de cada habilidad académica se realizan diversas dinámicas de evaluación con diferentes recursos. Al cierre del periodo académico, el estudiante presentará las pruebas que son de carácter obligatorio."
+    },
+    {
+        "line_number": 101,
+        "content": ""
+    },
+    {
+        "line_number": 102,
+        "content": "1.5 DEFINICION DE LOS MOMENTOS EN LA EVALUACION CON SUS INTENCIONES CLARAMENTE DEFINIDAS:"
+    },
+    {
+        "line_number": 103,
+        "content": "1.   El sistema comienza con la identificación de la meta del proceso: SUPERIOR."
+    },
+    {
+        "line_number": 104,
+        "content": "2.   Socialización de los objetivos y totalidad de los criterios de evaluación por cada una de las habilidades para cada periodo."
+    },
+    {
+        "line_number": 105,
+        "content": "3.   Presentación de las acciones pedagógicas para el periodo con una fecha límite establecida institucionalmente y socializada por los medios oficiales."
+    },
+    {
+        "line_number": 106,
+        "content": "4.   Realimentación de las acciones pedagógicas  resaltando   los recursos y necesidades del estudiante para aclarar conceptos, y brindar estrategias que le permita llegar."
+    },
+    {
+        "line_number": 107,
+        "content": "5.   Realización de prueba: permite conocer el dominio y aplicación de habilidades duras, blandas del siglo XXI y aprendizajes (para presentarla deben cumplir con la totalidad de las acciones pedagógicas por habilidad)."
+    },
+    {
+        "line_number": 108,
+        "content": "6.   Acciones para avanzar y profundizaciones."
+    },
+    {
+        "line_number": 109,
+        "content": "7.   Pausa y socialización del progreso de los estudiantes."
+    },
+    {
+        "line_number": 110,
+        "content": "La institución emite para cada estudiante, el Registro Escolar de Valoración, que además de los datos de identificación, registra su proceso periodo por periodo con las observaciones elaboradas para contribuir a su desarrollo integral. El Registro Escolar de Valoración responde a la estructura del Plan de Estudios que se organiza por ámbitos, habilidades y saberes disciplinares, con sus respectivas líneas y objetivos de aprendizaje esperados, de acuerdo con el ciclo formativo. Lo anterior evidencia el nivel de alcance periodo a periodo por cada estudiante y se homologa a la normativa nacional. Este informe también describe el proceso de convivencia del estudiante vivido durante el periodo. Al finalizar cada periodo, el registro escolar de valoración es socializado por el estudiante a sus padres, junto con el acompañante de grupo, quien da cuenta de su proceso tras haber realizado previamente la pausa periódica Magis 360."
+    },
+    {
+        "line_number": 111,
+        "content": ""
+    },
+    {
+        "line_number": 112,
+        "content": ""
+    },
+    {
+        "line_number": 113,
+        "content": "2. ESCALA DE VALORACION INSTITUCIONAL Y SU EQUIVALENTE CON LA ESCALA NACIONAL:"
+    },
+    {
+        "line_number": 114,
+        "content": "Escala de valoración institucional para Preescolar:"
+    },
+    {
+        "line_number": 115,
+        "content": "La valoración de los desempeños obtenidos por los estudiantes en los distintos ámbitos del Plan de Estudios, será asignada de acuerdo con la siguiente descripción:"
+    },
+    {
+        "line_number": 116,
+        "content": ""
+    },
+    {
+        "line_number": 117,
+        "content": "NO ALCANZO: Evidencia importantes dificultades en el desarrollo de habiilidades para cada uno de los aprendizajes esperados desde los ámbitos formativos."
+    },
+    {
+        "line_number": 118,
+        "content": "EN PROCESO: Cumplimiento de los alcances mínimos esperados, en el desarrollo de las habilidades en cada uno de los núcleos de los ámbitos."
+    },
+    {
+        "line_number": 119,
+        "content": "ALCANZO: Utilización de manera independiente en un contexto determinado de las habilidades en cada uno de los aprendizajes, para cada ámbito formativo."
+    },
+    {
+        "line_number": 120,
+        "content": ""
+    },
+    {
+        "line_number": 121,
+        "content": "ESCALA DE VALORACION INSTITUCIONAL Y SU EQUIVALENTE CON LA ESCALA NACIONAL DE 1° A 11°:"
+    },
+    {
+        "line_number": 122,
+        "content": "La valoración de los desempeños obtenidos por los estudiantes en las distintas habilidades del plan de estudios, será asignada de acuerdo con la siguiente descripción:"
+    },
+    {
+        "line_number": 123,
+        "content": ""
+    },
+    {
+        "line_number": 124,
+        "content": "BAJO: No alcanzar el nivel mínimo aprobatorio, correspondiente al 0% al 69% de los criterios de evaluación establecidos desde cada objetivo de aprendizaje y periodo académico, evidenciando dificultades significativas en el desarrollo de habilidades en las diferentes áreas de conocimiento."
+    },
+    {
+        "line_number": 125,
+        "content": ""
+    },
+    {
+        "line_number": 126,
+        "content": "BASICO: Cumplimiento del 70% al 79% de los criterios de evaluación establecidos desde cada objetivo de aprendizaje y periodo académico, los cuales corresponden al mínimo aprobatorio en el desarrollo de habilidades definidas por el currículo internacional Cambridge y MEN."
+    },
+    {
+        "line_number": 127,
+        "content": ""
+    },
+    {
+        "line_number": 128,
+        "content": "ALTO: Cumplimiento de los criterios de evaluación establecidos entre el 80% y 90% desde cada objetivo de aprendizaje y periodo académico, los cuales representan la aplicación y uso autónomo de los aprendizajes adquiridos al desarrollar habilidades en las diferentes áreas de conocimiento."
+    },
+    {
+        "line_number": 129,
+        "content": ""
+    },
+    {
+        "line_number": 130,
+        "content": "SUPERIOR: Cumplimiento del 91 al 100% de los criterios de evaluación establecidos desde cada objetivo de aprendizaje y periodo académico, que movilizan al estudiante a la reflexión, ideación y transferencia de los aprendizajes adquiridos en las diferentes áreas de conocimiento."
+    },
+    {
+        "line_number": 131,
+        "content": ""
+    },
+    {
+        "line_number": 132,
+        "content": "3. PROMOCION ESCOLAR:"
+    },
+    {
+        "line_number": 133,
+        "content": "Al finalizar el primer periodo académico del curso escolar, el Consejo Académico, con el consentimiento de los padres, recomendará al Consejo Ejecutivo la promoción anticipada al siguiente grado del estudiante que demuestre un rendimiento superior en desarrollo cognitivo, personal, de convivencia y socioafectivo en el marco de los objetivos de aprendizaje propuestos para la titulación que está cursando. La decisión se hará constar en las actas del Consejo Ejecutivo y, si es positiva, en el expediente escolar. En caso de que los padres sean los que soliciten tal promoción anticipada, ésta deberá presentarse y estudiarse únicamente al finalizar el primer periodo académico del curso escolar siguiendo el mismo canal descrito al principio de este artículo. Las condiciones para que el caso de un estudiante sea estudiado por el Consejo Académico como posible candidato a promoción temprana son las siguientes:"
+    },
+    {
+        "line_number": 134,
+        "content": "1. El estudiante debe haber obtenido en el curso escolar anterior un rendimiento global alto y superior en los aspectos contemplados por la formación integral."
+    },
+    {
+        "line_number": 135,
+        "content": "2. El estudiante muestra una amplia y suficiente superación de las metas formativas en la convivencia y socioafectivas en la titulación en la que está matriculado."
+    },
+    {
+        "line_number": 136,
+        "content": "3. El estudiante obtiene una calificación Superior en el 90% de las competencias del Plan de Estudios de la titulación en la que está matriculado al finalizar el primer periodo."
+    },
+    {
+        "line_number": 137,
+        "content": "4. Los padres solicitan o acuerdan por escrito al Consejo Académico para considerar la promoción temprana del título."
+    },
+    {
+        "line_number": 138,
+        "content": "5. El estudiante no tiene suscritos compromisos académicos, de convivencia o de cualquier otro tipo que condicionen su permanencia en la institución."
+    },
+    {
+        "line_number": 139,
+        "content": ""
+    },
+    {
+        "line_number": 140,
+        "content": "3.1 COMISIONES DE EVALUACION Y PROMOCION:"
+    },
+    {
+        "line_number": 141,
+        "content": "La Comisión de Evaluación y Promoción está integrada por los profesores de la licenciatura, un representante de los padres de familia, los profesionales de SAE, un representante de la dirección de Bienestar Estudiantil, un representante de la Dirección de Pastoral, el coordinador de formación del ciclo respectivo y la Dirección Académica que la convoca y preside, con el fin de revisar el proceso de los estudiantes presentados en la Comisión, analizar las estrategias propuestas, y si es necesario, generar nuevas estrategias que promuevan la mejora de su desempeño y definir la promoción de los estudiantes."
+    },
+    {
+        "line_number": 142,
+        "content": ""
+    },
+    {
+        "line_number": 143,
+        "content": "Las Comisiones de Evaluación y Promoción se realizan una vez en cada semestre del curso escolar y se convocan de manera extraordinaria cuando la situación lo amerita. Analizan el alcance del Plan de Acompañamiento Integrado del Ciclo PAIC, las situaciones de los estudiantes que requieren atención por su rendimiento excepcionalmente alto o por presentar dificultades en aspectos académicos, socioafectivos y de convivencia. Las Comisiones proponen y/o recomiendan decisiones al Consejo Ejecutivo relacionadas con la promoción, la continuidad de un estudiante en la Institución y las acciones de mejora contempladas en este Reglamento-Manual de Convivencia."
+    },
+    {
+        "line_number": 144,
+        "content": ""
+    },
+    {
+        "line_number": 145,
+        "content": "Previo a la finalización de la Comisión evaluadora, el equipo de titulación realiza el análisis de los objetivos de la titulación, así como de las situaciones presentadas en diálogo Magis y en pre-comisión con el fin de revisar y preparar las situaciones particulares de algunos estudiantes desde los aspectos: socioafectivo, académico y de convivencia, para desarrollar estrategias de acompañamiento o definir el análisis de la situación en la comisión evaluadora."
+    },
+    {
+        "line_number": 146,
+        "content": ""
+    },
+    {
+        "line_number": 147,
+        "content": "PROMOCION, APROBACION Y PROCLAMACION:"
+    },
+    {
+        "line_number": 148,
+        "content": "La promoción se realiza en los grados primero a Undécimo, situación que se define en las Comisiones de Evaluación y Promoción al finalizar el curso escolar, de acuerdo con lo que se conceptualiza en este Reglamento o Manual de Convivencia. Del mismo modo, se tienen en cuenta todas las áreas y competencias del Plan de Estudios para definir la homologación de la titulación."
+    },
+    {
+        "line_number": 149,
+        "content": ""
+    },
+    {
+        "line_number": 150,
+        "content": "Las Comisiones de Evaluación y Promoción tendrán en cuenta las siguientes situaciones para denegar o no la homologación de un determinado título:"
+    },
+    {
+        "line_number": 151,
+        "content": ""
+    },
+    {
+        "line_number": 152,
+        "content": "1. Cuando el estudiante haya dejado de asistir injustificadamente a las actividades programadas en el Plan de Estudios para un determinado grado, por periodos que, acumulativamente, sean superiores a una cuarta parte del tiempo total previsto (25%)."
+    },
+    {
+        "line_number": 153,
+        "content": ""
+    },
+    {
+        "line_number": 154,
+        "content": "2. Cuando al final del año el estudiante presenta Bajo en el concepto general en tres o más habilidades el estudiante tendrá la oportunidad de presentar en el mes de agosto el Plan de Desarrollo Individual de las dos (2) habilidades pendientes, en caso de no aprobar, no será promovido al siguiente grado. El estudiante de Undécimo grado que haya obtenido Bajo en una habilidad después de cumplir con el Plan de Desarrollo Individual y haber presentado el apoyo de este, a juicio de la Comisión de Evaluación y Promoción, no aprobará la titulación hasta que alcance los objetivos de aprendizaje esperados. Cabe aclarar que el Colegio San Bartolomé La Merced no ofrece la posibilidad de reiniciar Undécimo grado en el colegio."
+    },
+    {
+        "line_number": 155,
+        "content": ""
+    },
+    {
+        "line_number": 156,
+        "content": ""
+    },
+    {
+        "line_number": 157,
+        "content": "Los estudiantes de Undécimo grado que presenten una de las siguientes circunstancias el día de la graduación no serán proclamados bachilleres en la ceremonia de graduación del año escolar correspondiente:"
+    },
+    {
+        "line_number": 158,
+        "content": ""
+    },
+    {
+        "line_number": 159,
+        "content": "No estar en paz y seguro para todos los conceptos con el Colegio."
+    },
+    {
+        "line_number": 160,
+        "content": ""
+    },
+    {
+        "line_number": 161,
+        "content": "Cuando hayan incurrido en alguna de las faltas graves o especialmente graves del presente Reglamento o del Manual de Convivencia. En este caso, el alumno y la familia serán informados de la decisión por parte de los directores de la Escuela, en el momento en que se sancione la infracción cometida."
+    },
+    {
+        "line_number": 162,
+        "content": ""
+    },
+    {
+        "line_number": 163,
+        "content": "Cuando no hayan cumplido todos los requisitos académicos exigidos por la institución para los tres periodos académicos."
+    },
+    {
+        "line_number": 164,
+        "content": ""
+    },
+    {
+        "line_number": 165,
+        "content": "Cuando no lo hayan realizado, o habiéndolo hecho, no aprueben el Proyecto de Investigación del componente de Liderazgo de Educación Secundaria en el que están matriculados."
+    },
+    {
+        "line_number": 166,
+        "content": ""
+    },
+    {
+        "line_number": 167,
+        "content": "La prestación del servicio social obligatorio."
+    },
+    {
+        "line_number": 168,
+        "content": ""
+    },
+    {
+        "line_number": 169,
+        "content": ""
+    },
+    {
+        "line_number": 170,
+        "content": ""
+    },
+    {
+        "line_number": 171,
+        "content": "ACCIONES PARA MEJORAR EL RENDIMIENTO DE LOS ESTUDIANTES:"
+    },
+    {
+        "line_number": 172,
+        "content": "Si durante el proceso de evaluación de cada periodo académico, se detectan dificultades del estudiante para el alcance y cumplimiento de los criterios de evaluación, a través de las acciones pedagógicas que presenta en los tiempos establecidos, se diseñarán acciones para apoyar su proceso, las cuales serán acompañadas por el profesor que las plantea y, en caso de que la situación lo amerite, se presentará en la reunión de diálogo Magis. Estas son:"
+    },
+    {
+        "line_number": 173,
+        "content": ""
+    },
+    {
+        "line_number": 174,
+        "content": "Acciones para avanzar: Las acciones para avanzar se llevarán a cabo cuando el profesor y el estudiante reconozcan dificultades en los procesos de aprendizaje. Estas acciones buscan favorecer el alcance de los criterios de evaluación que no hayan sido aprobados."
+    },
+    {
+        "line_number": 175,
+        "content": ""
+    },
+    {
+        "line_number": 176,
+        "content": "Se realizará una acción para avanzar al corte del criterio 7 para los criterios no alcanzados a la fecha. Los estudiantes tendrán derecho a acciones para avanzar sólo si han cumplido con la evidencia de la acción pedagógica correspondiente."
+    },
+    {
+        "line_number": 177,
+        "content": ""
+    },
+    {
+        "line_number": 178,
+        "content": "En caso de inasistencia prolongada de un estudiante por enfermedad, la Coordinación de Formación del ciclo correspondiente realizará un plan trabajo y de estrategias de evaluación. para cubrir los prerrequisitos y evidencias no desarrolladas durante la ausencia. A Las inasistencias por viajes  no se les realiza plan de trabajo."
+    },
+    {
+        "line_number": 179,
+        "content": ""
+    },
+    {
+        "line_number": 180,
+        "content": "Semana de Acompañamiento y Apoyo Pedagógico:"
+    },
+    {
+        "line_number": 181,
+        "content": ""
+    },
+    {
+        "line_number": 182,
+        "content": "Para el caso de los estudiantes que al finalizar el año escolar tengan 1 o 2 habilidades con desempeño bajo, es decir que no alcanzan el nivel permisible del 70% deberán presentarse en la semana de Acompañamiento y Apoyo Pedagógico, desde grado primero hasta once grados."
+    },
+    {
+        "line_number": 183,
+        "content": ""
+    },
+    {
+        "line_number": 184,
+        "content": "a. Diálogo cercano entre el estudiante que lo requiera y el maestro o maestros, para identificar los criterios que no alcanzó durante el año académico para llegar al nivel permisible del 70% en cada periodo."
+    },
+    {
+        "line_number": 185,
+        "content": "b. Una vez identificadas estas necesidades, se construye el Plan de Desarrollo Individual por parte del estudiante, profesor o profesores y familia en el que se describen los criterios que no se alcanzaron, para llegar al mínimo aprobatorio. Así mismo, se define los compromisos por parte del estudiante, la familia y colegio."
+    },
+    {
+        "line_number": 186,
+        "content": "c. Realización de prueba: sólo retoma los criterios que no fueron alcanzados para llegar al mínimo aprobatorio estas se realizarán en el mes de agosto antes del inicio del año académico."
+    },
+    {
+        "line_number": 187,
+        "content": "En caso de no pasar la prueba en una o las dos habilidades se presentará una segunda evaluación durante la misma semana, solo con los criterios pendientes, para llegar al mínimo aprobatorio del 70 % . Si a pesar de este acompañamiento el estudiante no logra el nivel Básico no será promovido al grado siguiente."
+    },
+    {
+        "line_number": 188,
+        "content": "Para los estudiantes de grado undécimo se realizarán las pruebas al cierre de la semana de Acompañamiento y Apoyo Pedagógico o días antes de su ceremonia de graduación. Si no son aprobadas no podrá ser Proclamado."
+    },
+    {
+        "line_number": 189,
+        "content": ""
+    },
+    {
+        "line_number": 190,
+        "content": "Actividades de profundización:"
+    },
+    {
+        "line_number": 191,
+        "content": ""
+    },
+    {
+        "line_number": 192,
+        "content": "Son diseñadas por el profesor para cualificar el proceso del estudiante que alcanza con suficiencia los criterios de evaluación propuestos. Estas se llevarán a cabo durante el periodo académico respectivo simultáneamente con las  actividades regulares del curso."
+    },
+    {
+        "line_number": 193,
+        "content": ""
+    },
+    {
+        "line_number": 194,
+        "content": ""
+    },
+    {
+        "line_number": 195,
+        "content": "4.1 SEGUIMIENTO:"
+    },
+    {
+        "line_number": 196,
+        "content": "El Seguimiento es el proceso realizado por un grupo interdisciplinario a todos los estudiantes, a partir del análisis e interpretación sistemática de diferentes situaciones individuales o grupales que se presentan en la vida escolar, con el fin de comprender estas situaciones, proponer e implementar estrategias que promuevan la formación integral."
+    },
+    {
+        "line_number": 197,
+        "content": "El equipo que desarrolla el Seguimiento está integrado por los representantes del Servicio de Asesoría Escolar: psicólogo, fonoaudiólogo de la sección, terapeuta ocupacional; los acompañantes de grupo y otros profesores del ciclo, y en casos particulares la Coordinación de Formación del ciclo respectivo, los acompañantes de Bienestar y/o Pastoral, el director académico, el director de pastoral o su delegado, y aquellos otros que sean invitados. Este equipo delega a una persona para informar a la familia del proceso y lo vincula al proceso de seguimiento, para dar continuidad a las estrategias allí propuestas."
+    },
+    {
+        "line_number": 198,
+        "content": "El seguimiento se concreta en las reuniones de diálogo Magis, que se realizan por grados en el apartado respectivo y es moderado por el psicólogo o la coordinación del ciclo, en el que se generan, acompañan y evalúan las estrategias y recomendaciones pertinentes a las situaciones analizadas en cada una de las titulaciones."
+    },
+    {
+        "line_number": 199,
+        "content": "Los diálogos Magis de cada grado son el espacio en el que se reúne el equipo de cada grado para establecer la revisión de los procesos de formación integral de los estudiantes y determinar las estrategias que permitan mejorar su desempeño o calificar su proceso de aprendizaje en el marco del acompañamiento."
+    },
+    {
+        "line_number": 200,
+        "content": ""
+    },
+    {
+        "line_number": 201,
+        "content": ""
+    },
+    {
+        "line_number": 202,
+        "content": "5. CONTRIBUCION A LA EVALUACION EN LA POBLACION DE ESTUDIANTES CON CAPACIDADES DIVERSAS: PROCESO DE ACOMPANAMIENTO Y CRITERIOS ESPECIFICOS DE EVALUACION:"
+    },
+    {
+        "line_number": 203,
+        "content": "En nuestro colegio, un estudiante puede presentar necesidades específicas de apoyo educativo requiriendo la implementación de estrategias y de ajustes razonables y, un PIAR que garantice su desarrollo y formación integral, el aprendizaje y su participación en el espacio escolar."
+    },
+    {
+        "line_number": 204,
+        "content": "De acuerdo con lo anterior, se definió como política de inclusión la siguiente: \"En el Colegio valoramos las diferencias y estamos comprometidos en realizar un acompañamiento a cada uno de sus estudiantes, poniendo especial cuidado en aquellos casos que requieren una atención diferencial por una condición especifica en relación con el aprendizaje, lenguaje, y/o capacidad o talento excepcional en concordancia con lo reglamentado en el decreto 1421 del año 2017 en el marco de la educación inclusiva\"."
+    },
+    {
+        "line_number": 205,
+        "content": "Teniendo en cuenta los anterior, se definen para el colegio San Bartolomé La Merced, los siguientes lineamientos:"
+    },
+    {
+        "line_number": 206,
+        "content": "1.  Implementar El Diseño Universal para el Aprendizaje (DUA), incluye estrategias de acompañamiento como parte del servicio educativo brindado a los estudiantes, permitiendo la accesibilidad al aprendizaje y no implica llevar a cabo procesos de adaptación curricular, estas se registran en la planeación periódica de la enseñanza. El DUA incluye estrategias de acompañamiento como parte del servicio educativo, permitiendo la accesibilidad al aprendizaje y no implica realizar procesos de adaptación curricular."
+    },
+    {
+        "line_number": 207,
+        "content": "2.  En el caso concreto de los estudiantes que tienen algún diagnóstico, este debe estar avalado por un especialista externo, y el plan de apoyo que se siga debe comprometer el trabajo interdisciplinario entre la familia, el Colegio, el estudiante y el profesional externo. Para estos estudiantes, se han establecido unos protocolos de acompañamiento según la caracterización de la población, los cuales son dados a conocer a los docentes en la reunión de Dialogo Magis."
+    },
+    {
+        "line_number": 208,
+        "content": ""
+    },
+    {
+        "line_number": 209,
+        "content": ""
+    },
+    {
+        "line_number": 210,
+        "content": "Para la implementación de estosprotocolos, se debe tener encuenta que:"
+    },
+    {
+        "line_number": 211,
+        "content": "La familia informe al Coordinador de Formación y/o al Servicio de Asesoría Escolar (SAE), la situación de la condición particular del estudiante y el documento que soporta dicha necesidad."
+    },
+    {
+        "line_number": 212,
+        "content": "Se socializa la condición del estudiante al Comité de ciclo y la Dirección Académica, en donde se activará el Protocolo establecido para el acompañamiento, según la política institucional."
+    },
+    {
+        "line_number": 213,
+        "content": "Se elabora un Plan Individual de Ajustes Razonables (PIAR) para aquellos estudiantes que lo requieran por presentar para minimizar en el entorno escolar las barreras para el aprendizaje y la participación. Estarán relacionados con:   actividades, metodologías, estrategias de evaluación, entre otros, según las necesidades y la situación del estudiante."
+    },
+    {
+        "line_number": 214,
+        "content": "Se debe reportar al Sistema Integrado de Matrículas (SIMAT), el diagnóstico del estudiante, según la clasificación establecida por los profesionales externos."
+    },
+    {
+        "line_number": 215,
+        "content": "Todas las situaciones de los estudiantes que tengan adaptación curricular deben ser presentadas en el espacio de Comisión de Evaluación y promoción con el fin de revisar el cumplimiento de los ajustes razonables para evaluar el alcance de los objetivos y metas fijados en el PIAR y en la adaptación curricular."
+    },
+    {
+        "line_number": 216,
+        "content": "En los casos en que el estudiante debe acompañarse de profesionales externos (fonoaudiología, terapia ocupacional, psicología, psiquiatría, neuropsicología, entre otros), la familia se compromete a mantener los procesos terapéuticos, hasta que los equipos externos y del SAE lo determinen, según los avances del estudiante."
+    },
+    {
+        "line_number": 217,
+        "content": ""
+    },
+    {
+        "line_number": 218,
+        "content": ""
+    },
+    {
+        "line_number": 219,
+        "content": "Para el caso de estudiantes con condición de salud o, además de lo anterior, setendrán en cuenta:"
+    },
+    {
+        "line_number": 220,
+        "content": "Comunicación a directivos y profesores de la situación que atraviesa el estudiante."
+    },
+    {
+        "line_number": 221,
+        "content": "La familia debe hacer entrega al Colegio del documento emitido por el médico notificando la condición de salud y las recomendaciones sugeridas. Esto en aras de seleccionar la oferta educativa pertinente (institucional, con flexibilización y ajustes razonables, hospitalaria, o en el hogar –a distancia-)."
+    },
+    {
+        "line_number": 222,
+        "content": "El plan estará ajustado a las indicaciones médicas aplicables durante el tiempo de incapacidad y al momento de reingreso del estudiante a la institución. Según aplique, el proceso de evaluación que sea incluido en este plan, hará parte de las valoraciones de desempeño académico, así sea ejecutado desde casa o lugar de hospitalización."
+    },
+    {
+        "line_number": 223,
+        "content": "El caso será acompañado de manera especial por los profesionales del SAE, Coordinación de ciclo, Pastoral o Bienestar si es pertinente."
+    },
+    {
+        "line_number": 224,
+        "content": ""
+    },
+    {
+        "line_number": 225,
+        "content": ""
+    },
+    {
+        "line_number": 226,
+        "content": ""
+    },
+    {
+        "line_number": 227,
+        "content": "6. CURRÍCULO CAMBRIDGE INTERNATIONAL:"
+    },
+    {
+        "line_number": 228,
+        "content": "El colegio San Bartolomé La Merced opta por Cambridge internacional buscando el reconocimiento de nuestro currículo, ampliando la visión global de nuestra propuesta de formación integral mediante la generación de posibilidades de interacción que garanticen estudiantes competentes, rompiendo las fronteras de las culturas y dinamizando las prácticas pedagógicas para favorecer el proceso de enseñanza-aprendizaje centrado en el estudiante."
+    },
+    {
+        "line_number": 229,
+        "content": ""
+    },
+    {
+        "line_number": 230,
+        "content": "El currículo Cambridge es un currículo progresivo, flexible y adaptable con un gran número de asignaturas que pueden ser ofrecidas a los estudiantes a través de un sistema de educación alineado entre: Currículo,  Enseñanza, aprendizaje y  Evaluación. Lo anterior implica que se esté haciendo un proceso de revisión constante de estos cuatro elementos que componen Cambridge International Education."
+    },
+    {
+        "line_number": 231,
+        "content": ""
+    },
+    {
+        "line_number": 232,
+        "content": "El modelo curricular Cambridge inicia a los 3 años y finaliza cuando el estudiante tiene más de 16 años. Los programas académicos y exámenes que el programa Cambridge International ofrece se dividen en 5 etapas."
+    },
+    {
+        "line_number": 233,
+        "content": ""
+    },
+    {
+        "line_number": 234,
+        "content": "El reconocimiento nacional a través de la Resolución 000120 del 30 de enero de 2018, del Instituto Colombiano para la Evaluación de la Educación (ICFES) otorga la validez en Colombia de los resultados y las titulaciones de los Cambridge International Examinations como requisito para ingresar a los programas de las universidades nacionales y de esta manera, validar los exámenes IGCSE como reconocimiento en asignaturas obligatorias en diferentes carreras."
+    },
+    {
+        "line_number": 235,
+        "content": ""
+    },
+    {
+        "line_number": 236,
+        "content": "Dentro de los  procesos de enseñanza y aprendizaje, se conciben los atributos del estudiante que se enfocan en metacognición y aprendizaje activo que favorece el desarrollo de la autonomía y control sobre su propio aprendizaje. La base de la metodología gira en torno a las necesidades de cada estudiante y busca desarrollar los siguientes valores en ellos para un aprendizaje exitoso:  Seguro,  Responsable, Reflexivo, Innovador y Comprometido."
+    },
+    {
+        "line_number": 237,
+        "content": ""
+    },
+    {
+        "line_number": 238,
+        "content": "La evaluación para el colegio San Bartolomé La Merced es permanente y continúa, Cambridge propone la realización de una evaluación del aprendizaje y para el aprendizaje durante todo el desarrollo de las etapas del currículo. De esta manera se puede garantizar que el profesor pueda evaluar sus prácticas pedagógicas desde estas dos perspectivas teniendo en cuenta la evaluación formativa y sumativa que se realiza a través de los exámenes Progression Test, Checkpoint y IGCSE durante el transcurso de las etapas del currículo Cambridge, cada una de estas pruebas otorga un certificado a los estudiantes, lo cual permite que ellos puedan conocer su proceso en el cierre de cada etapa del currículo. Así mismo, estas pruebas evidencian el avance de nuestro Plan de Estudios que está basado en los objetivos de aprendizaje de cada asignatura del currículo."
+    },
+    {
+        "line_number": 239,
+        "content": ""
+    },
+    {
+        "line_number": 240,
+        "content": "7. INSTANCIAS DE ATENCIÓN Y RESOLUCIÓN DE RECLAMOS DE PADRES Y ALUMNOS SOBRE ASPECTOS DE CARÁCTER ACADÉMICO:"
+    },
+    {
+        "line_number": 241,
+        "content": "Cuando se presenten reclamos por parte de padres y estudiantes sobre aspectos de carácter académico, será el canal regular establecido para atender dichas situaciones:"
+    },
+    {
+        "line_number": 242,
+        "content": ""
+    },
+    {
+        "line_number": 243,
+        "content": "Primera instancia:"
+    },
+    {
+        "line_number": 244,
+        "content": "1. El profesor, el estudiante y los padres implicados en la situación lo dialogan en busca de soluciones."
+    },
+    {
+        "line_number": 245,
+        "content": "2. De no llegar a soluciones con el docente, interviene el coordinador de la habilidad en calidad de mediador."
+    },
+    {
+        "line_number": 246,
+        "content": "3. De no llegar a soluciones con el docente y el coordinador de la habilidad, intervendrá la Coordinación de la Formación del ciclo respectivo."
+    },
+    {
+        "line_number": 247,
+        "content": "Los reclamos de los padres y estudiantes deben presentarse por escrito vía correo electrónico, será  atendido dentro de los 5 días hábiles siguientes a la fecha en que se realizó la solicitud en la instancia respectiva."
+    },
+    {
+        "line_number": 248,
+        "content": ""
+    },
+    {
+        "line_number": 249,
+        "content": "Segundo instancia:"
+    },
+    {
+        "line_number": 250,
+        "content": "1. Intervención de la dirección académica: Esta instancia tendrá 10 días hábiles siguientes a la fecha en que se realizó la solicitud."
+    },
+    {
+        "line_number": 251,
+        "content": "2. Intervención del rector:  Esta instancia decisiva tendrá 15 días hábiles para resolver el reclamo de los padres o tutor respectivo."
+    },
+    {
+        "line_number": 252,
+        "content": ""
+    },
+    {
+        "line_number": 253,
+        "content": ""
+    },
+    {
+        "line_number": 254,
+        "content": "8. ACCIONES QUE GARANTIZAN EL CUMPLIMIENTO DE LO IMPLEMENTADO EN EL SIEE POR PARTE DE LOS DIRECTIVOS Y DOCENTES:"
+    },
+    {
+        "line_number": 255,
+        "content": "El Colegio a través del Consejo Académico y las Comisiones de promoción y evaluación hará la implementación, seguimiento y evaluación de las diferentes acciones del SIEE (SISTEMA INTEGRAL DE EVALUACION ESCOLAR) para hacer de este un sistema efectivo y eficiente dentro del proceso formativo."
+    },
+    {
+        "line_number": 256,
+        "content": "El SIEE hará parte de los procesos de Diseño Curricular, por lo tanto, desde Gestión Ignaciana del Aprendizaje y la Formación Integral se hará auditoría interna de estos."
+    },
+    {
+        "line_number": 257,
+        "content": ""
+    },
+    {
+        "line_number": 258,
+        "content": "Estrategias de divulgación deprocedimientos:"
+    },
+    {
+        "line_number": 259,
+        "content": "El Colegio a través del Manual de Convivencia Escolar, informará a la Comunidad Educativa, el Sistema de Evaluación Institucional el cual será publicado en la página web del Colegio."
+    },
+    {
+        "line_number": 260,
+        "content": "Al principio del año escolar, se realizarán encuentros de grupo y reuniones con los Padres de Familia para socializar este sistema de evaluación, aclarar dudas y explicar el procedimiento a seguir."
+    },
+    {
+        "line_number": 261,
+        "content": "Mecanismos para crear, definir,socializar, aprobar, Incorporar, divulgar el SIEE."
+    },
+    {
+        "line_number": 262,
+        "content": "Acta del Consejo Directivo que aprueba e incorpora los ajustes al SIEE 2023: Acta No 004 de junio 15 de 2023 Acuerdo por el cual se modifica SIEE."
+    },
+    {
+        "line_number": 263,
+        "content": "Estrategias de información del SIEEpara estudiantes, padres de familia ydocentes."
+    },
+    {
+        "line_number": 264,
+        "content": "El Sistema de Evaluación se informará siempre a través del Manual de Convivencia del Colegio. En los talleres de inducción se debe informar a las familias, todo lo relacionado con el SIEE."
+    },
+    {
+        "line_number": 265,
+        "content": "Para el caso de los docentes que ingresen durante el transcurso del año, el Consejo de Formación se encargará de informar acerca del sistema, esto como parte del proceso de inducción."
+    },
+    {
+        "line_number": 266,
+        "content": ""
+    },
+    {
+        "line_number": 267,
+        "content": ""
+    },
+    {
+        "line_number": 268,
+        "content": ""
+    },
+    {
+        "line_number": 269,
+        "content": ""
+    },
+    {
+        "line_number": 270,
+        "content": ""
+    }
+]
